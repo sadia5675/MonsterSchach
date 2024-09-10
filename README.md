@@ -1,5 +1,5 @@
 # MonsterSchach
-
+Dieses Spiel wurde im Rahmen des Fachs "Softwaretechnik" an der Hochschule RheinMain entwickelt. Die Aufgabe habe ich zusammen mit zwei weiteren Kommilitonen entwickelt.
 **MonsterSchach** ist ein strategisches Brettspiel, bei dem zwei Spieler mit unterschiedlichen Figuren und besonderen Spielmechaniken gegeneinander antreten. Jede Figur hat eigene Bewegungsregeln, und durch Wettkämpfe und Items wird das Spiel dynamischer als klassisches Schach.
 
 ## Spielübersicht
@@ -28,4 +28,19 @@ Wenn zwei Figuren auf dasselbe Feld ziehen, startet ein Wettstreit. Der Angreife
 ## Spielziel
 
 Das Spiel ist gewonnen, wenn alle gegnerischen Spielfiguren vom Spielfeld genommen wurden.
+
+## Technologien
+
+Dieses Projekt verwendet:
+- **Java**
+- **JavaFX**
+- **FXML**
+
+## Anwendungsvorschau
+
+Hier sind GIFs, die eine Vorschau der Anwendung zeigen:
+
+![item GIF](https://github.com/sadia5675/MonsterSchach/blob/main/item.gif)
+![clickGame GIF](https://github.com/sadia5675/MonsterSchach/blob/main/clickGame.gif)
+![calculationGame GIF](https://github.com/sadia5675/MonsterSchach/blob/main/calculationGame.gif)
 
